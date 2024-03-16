@@ -1,0 +1,14 @@
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\obj\Debug\net7.0\CryptographyC-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\obj\Debug\net7.0\CryptographyC-.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\obj\Debug\net7.0\CryptographyC-.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\obj\Debug\net7.0\CryptographyC-.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\bin\Debug\net7.0\CryptographyC-.exe
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\bin\Debug\net7.0\CryptographyC-.deps.json
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\bin\Debug\net7.0\CryptographyC-.runtimeconfig.json
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\bin\Debug\net7.0\CryptographyC-.dll
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\bin\Debug\net7.0\CryptographyC-.pdb
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\obj\Debug\net7.0\CryptographyC-.dll
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\obj\Debug\net7.0\refint\CryptographyC-.dll
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\obj\Debug\net7.0\CryptographyC-.pdb
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\obj\Debug\net7.0\CryptographyC-.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Документы\paszi_lab4\CryptographyC-\obj\Debug\net7.0\ref\CryptographyC-.dll
